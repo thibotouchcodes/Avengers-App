@@ -7,12 +7,14 @@ h2{
     font-size: 38px;
     color: crimson;
     font-style: italic;
+    background-color: gold;
 }
 h4{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 28px;
     font-style: italic;
     color: crimson;
+    background-color: gold;
 }
 p{
     font-family: Arial, Helvetica, sans-serif;
